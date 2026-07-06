@@ -6,6 +6,12 @@
 
 > Method note: this review is written from detailed knowledge of the Foxglove Studio open-source codebase as it existed at the end of 2023, not from a fresh line-by-line re-read of the mirror. Load-bearing factual claims about Foxglove are flagged where confidence is less than high.
 
+> Status note: this is a point-in-time record. Its findings were folded into the split
+> specification set (see [`../README.md`](../README.md)) in July 2026. One recommendation was
+> subsequently revised: §4.3.1 (defer the hosted IDE) is partially superseded by the
+> extension fast-track requirement — see
+> [`../product/extension-fast-track.md`](../product/extension-fast-track.md), revision note.
+
 ---
 
 ## 1. What Foxglove Studio actually was

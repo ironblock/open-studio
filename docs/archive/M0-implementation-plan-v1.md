@@ -1,3 +1,9 @@
+> **⚠️ SUPERSEDED (July 2026).** Retained verbatim for history. Key revisions: the `Time`
+> type is now a branded integer-microsecond `number` (not `{sec,usec}` + bigint — see
+> [`../architecture/time.md`](../architecture/time.md)), code-quality governance flags are
+> M0 scope (see [`../architecture/overview.md`](../architecture/overview.md#governance)),
+> and `panel-api` moves to M1 (see [`../roadmap.md`](../roadmap.md)).
+
 # M0: Skeleton — Implementation Plan
 
 **Target:** Week 2

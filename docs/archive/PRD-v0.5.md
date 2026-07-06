@@ -1,3 +1,9 @@
+> **⚠️ SUPERSEDED (July 2026).** Retained verbatim for history. Do not implement from this
+> document — it contains decisions that have been revised (Time type, panel render contract,
+> SAB pipeline design, milestone ordering, and more). The current specification is the split
+> doc set indexed at [`../README.md`](../README.md); supersessions are itemized in
+> [`../decisions.md`](../decisions.md).
+
 # Open Studio — Product Requirements Document
 
 **Version:** 0.5 (Final Draft)
